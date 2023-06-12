@@ -11,10 +11,10 @@ During the process I identified the following:
 View my notebook on [Github](https://github.com/AkshetPatel/My_Spotify_Data_Analysis/blob/master/my-spotify-streamingdata-analysis.ipynb)/[Kaggle.com](https://www.kaggle.com/akshetpatel/my-spotify-streamingdata-analysis)
 ## Visualizations of the Streaming Data Analysed:
 #### 1. Number of Tracks Streamed Over Time:
-![](https://github.com/AkshetPatel/My_Spotify_Data_Analysis/blob/master/Images_of_Visualized_Data/Number%20of%20Hours%20Streamed%20Over%20Time.png)
+![](https://github.com/akshetP/My_Spotify_Data_Analysis/blob/main/Images_of_Visualized_Data/Number%20of%20Tracks%20Streamed%20Over%20Time.png)
 
 #### 2. Number of Hours Streamed Over Time:
-![](https://github.com/AkshetPatel/My_Spotify_Data_Analysis/blob/master/Images_of_Visualized_Data/Number%20of%20Tracks%20Streamed%20Over%20Time.png)
+![](https://github.com/akshetP/My_Spotify_Data_Analysis/blob/main/Images_of_Visualized_Data/Number%20of%20Hours%20Streamed%20Over%20Time.png)
 
 #### 3. Top 15 Tracks Before Lockdown Began:
 ![](https://github.com/AkshetPatel/My_Spotify_Data_Analysis/blob/master/Images_of_Visualized_Data/Top%2015%20Tracks%20Before%20Lockdown%20Began.png)
